@@ -10,3 +10,4 @@ E:\Aquib\MCA\C#\working with string\obj\Debug\netcoreapp3.1\working with string.
 E:\Aquib\MCA\C#\working with string\obj\Debug\netcoreapp3.1\working with string.dll
 E:\Aquib\MCA\C#\working with string\obj\Debug\netcoreapp3.1\working with string.pdb
 E:\Aquib\MCA\C#\working with string\obj\Debug\netcoreapp3.1\working with string.genruntimeconfig.cache
+E:\Aquib\MCA\C#\working with string\obj\Debug\netcoreapp3.1\working with string.csprojAssemblyReference.cache
